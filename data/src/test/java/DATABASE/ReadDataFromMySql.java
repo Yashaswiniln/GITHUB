@@ -9,7 +9,7 @@ import java.sql.Statement;
 import com.mysql.cj.jdbc.Driver;
 
 public class ReadDataFromMySql {
-
+//PULL BACK
 	public static void main(String[] args) throws SQLException {
 		//register or load the mysql database
 		Driver driver=new Driver();
